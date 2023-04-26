@@ -59,9 +59,9 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://taiwoenoch.github.io/Counter_App/"></a>
+## 🚀 Live Demo <a name="Counter App"></a>
 
-- [Live Demo Link] coming soon.
+- https://taiwoenoch.github.io/Counter_App/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
